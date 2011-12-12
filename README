@@ -1,5 +1,33 @@
-= ZionPressed =
-* by Seye Kuyinu and Taiwo Makinwa
+READ ME: ZIONPRESSED
+====================
 
-So, I am working on  a WordPress theme released under the GPL License. Options will be made available for full whitelabelled customization
-== ZionPressed ==
+Usage
+-----
+
+You have to put the entire folder in your wp-content WordPress theme folder.
+
+
+If you would edit the source code, you can go to the header.php file, looking for things like
+
+
+``` html
+<link rel="stylesheet/less" type="text/css" href="lib/other">
+<script src="other.js" type="text/javascript"></script>
+```
+
+Versioning
+----------
+
+Of course I would be making more modifications to this. But feel free to fork this project. I'd also look forward to pull requests.
+
+
+Developers
+----------
+
+Seye Kuyinu and Taiwo Makinwa
+
+
+License
+---------------------
+
+GPL License
